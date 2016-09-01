@@ -7,7 +7,7 @@ custom-structrue
 ```
 
 # default structure
-![默认结构](default-structrue.gif)
+![默认结构](default-structure.gif)
 
 # custom structure
 ![自定义结构](custom-structure.gif)
